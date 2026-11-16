@@ -1,4 +1,4 @@
-# multiobjective-portfolio-optimization
+# Multiobjective-portfolio-optimization
 Python research project comparing NSGA-II and MOLA for multi-objective portfolio optimization, using XGBoost, Optuna, and Ledoit–Wolf covariance estimation.
 
 # MOPO-H | Hybrid Multi-Objective Portfolio Optimization
